@@ -1,0 +1,8 @@
+{
+	"autoload":{
+		"classmap":["app/conexao",
+		"app/controller",
+		"app/model",
+		"app/view"]
+	}
+}
